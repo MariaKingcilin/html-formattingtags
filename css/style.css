@@ -1,0 +1,18 @@
+.one{
+	font-size:50px;
+	text-align:center;
+	}
+.two{
+	text-align:center;
+	}
+hr{
+	height:5px;
+	background-color:gray;
+	}
+section{
+	border:2px solid black;
+	vertical-align:top;
+	padding:20px;
+	margin:250px;
+	}
+	
